@@ -54,6 +54,7 @@ This project showcases a strong command of essential data science and machine le
 * **Problem-Solving in Financial Contexts**
 
 ---
+![My Project Results](Submission_Results.png)
 
 ## Results
 
